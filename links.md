@@ -12,5 +12,5 @@ menyunting teks.
 Website ini membahas tentang hal yang berkaitan dengan linux, seperti cara menginstall linux, command linux.
 Website ini memiliki UI yang bagus sehingga kalian tidak akan bosan ketika mengikuti tutorial dari web ini.
 
-3. [Three](https://www.techtarget.com/whatis/definition/operating-system-OS)
+3. [Three](https://www.techtarget.com/whatis/definition/operating-system-OS)<br>
 Website ini menjelaskan tentang apa itu OS, website ini sangat cocok sebagai pengantar perkuliahan OS ini

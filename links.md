@@ -22,4 +22,12 @@ Video ini membantu saya untuk memahami apa itu cyber security. Video ini diserta
 
 2. [C Introduction](https://www.w3schools.com/c/c_intro.php)<br>
 Website ini berguna untuk mempelajari bahasa pemrograman C. Website ini menyediakan online compiler untuk digunakan sebagai latihan setelah mempelajari dasar-dasar C dan website ini disusun dengan baik sehingga kita dapat mempelajari C dari yang dasar ke yang sulit.
+
+# Week 3
+1. [SED](https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/)
+Website ini berisi tentang command SED dan contohnya. Website ini membantu saya dalam mempelajari SED
+2. [GREP](https://www.linuxsec.org/2016/10/basic-grep-command.html)
+Website ini berisi tentang basic GREP command. Website ini berbahasa Indonesia sehingga mudah dipelajari. Website ini membantu saya dalam mempelajari GREP.
+3. [Difference between Internal and External Fragmentation](https://www.geeksforgeeks.org/difference-between-internal-and-external-fragmentation/)
+Link ini menjelaskan tentang apa itu internal fragmentation dan external fragmentation. Link ini juga membahas perbedaan keduanya.
   

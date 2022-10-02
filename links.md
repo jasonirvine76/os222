@@ -39,5 +39,5 @@ Link ini menjelaskan apa itu little endian dan big endian. Link ini juga menjela
 2. [Makefile](https://makefiletutorial.com/)<br>
 Link ini menjelaskan bagaimana cara membuat Makefile dan kegunaannya.
 
-3. [Pointer] (https://www.tutorialspoint.com/cprogramming/c_pointers.htm)<br>
+3. [Pointer](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)<br>
 Apa itu pointer dan kapan situasi yang tepat untuk menggunakan pointer.

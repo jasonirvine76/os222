@@ -41,3 +41,17 @@ Link ini menjelaskan bagaimana cara membuat Makefile dan kegunaannya.
 
 3. [Pointer](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)<br>
 Apa itu pointer dan kapan situasi yang tepat untuk menggunakan pointer.
+
+# Week 5 📚
+1. [Difference between Physical and Virtual Memory](https://pediaa.com/what-is-the-difference-between-physical-and-virtual-memory/)<br>
+Link ini menjelaskan perbedaan antara physical memory dengan virtual memory
+2. [Hexadecimal in C](https://www.includehelp.com/c/working-with-hexadecimal-values-in-c-programming-language.aspx)<br>
+Link ini menjelaskan menggunakan hexadecimal dalam C
+
+# Week 6 🖥️
+1. [Fork in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Link ini menjelaskan konsep dari fork di C.
+2. [getppid() and getpid()](https://www.geeksforgeeks.org/getppid-getpid-linux/)<br>
+Link ini menjelaskan apa itu getppid dan getpid serta cara menggunakannya.
+
+

@@ -54,4 +54,11 @@ Link ini menjelaskan konsep dari fork di C.
 2. [getppid() and getpid()](https://www.geeksforgeeks.org/getppid-getpid-linux/)<br>
 Link ini menjelaskan apa itu getppid dan getpid serta cara menggunakannya.
 
+# Week 7 📚
+1. [Introduction to Deadlock] (https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+Link ini menjelaskan apa itu deadlock dan cara handlenya.
+2. [Mutex lock] (https://www.geeksforgeeks.org/mutex-lock-for-linux-thread-synchronization/)<br>
+Link ini menjelaskan apa itu mutex dan cara bekerja mutex.
+3. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+Link ini menjelaskan apa itu semaphores dan implementasinya.
 

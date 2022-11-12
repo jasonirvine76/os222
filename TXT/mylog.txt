@@ -57,3 +57,9 @@ ZCZC W06 150 L05 Quiz related including studying
 ZCZC W06 60  L25 C-language including Make.
 ZCZC W06 180 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W06 10  L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend
+ZCZC W07 180 L09 Weekly Assignments
+ZCZC W07 200 L99 Face-to-face lecture.
+ZCZC W07 180 L05 Quiz related including studying
+ZCZC W07 20  L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend
+ZCZC W07 60  L07 Demo related
+ZCZC W07 80  L06 References/Books/Documents/Browsing/GSGS related

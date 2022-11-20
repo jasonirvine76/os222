@@ -62,3 +62,10 @@ Link ini menjelaskan apa itu mutex dan cara bekerja mutex.
 3. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
 Link ini menjelaskan apa itu semaphores dan implementasinya.
 
+# Week 8  🖥️
+1. [SJF](https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/)<br>
+Link ini menjelaskan SJF dan contohnya
+2. [MLQ](https://www.geeksforgeeks.org/multilevel-queue-mlq-cpu-scheduling/)<br>
+Link ini menjelaskan apa itu MLQ
+3. [CPU Scheduling](https://www.scaler.com/topics/operating-system/cpu-scheduling/)<br>
+Link ini menjelaskan apa itu CPU Scheduling, algoritmanya, prosesnya di OS, dan Deadlock Prevention.
